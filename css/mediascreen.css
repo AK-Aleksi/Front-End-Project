@@ -206,16 +206,7 @@
     .btn-md {
         margin:auto;
     }
-   
-/*     .header-content-wrapper {
-      display: flex;
-      flex-wrap: wrap;
-     justify-content: flex-start;
-      max-width: 500px;
-      /* padding-left: 150px; */
-     color: #1a56a3;  
-     
-    } */
+    
     
      .header-content-wrapper {
         max-width: 420px;
