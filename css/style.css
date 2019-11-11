@@ -87,6 +87,7 @@ body {
     -ms-flex-pack: center;
     justify-content: center;
     opacity: 1.7;
+    background-attachment: fixed;
     
 }
 
