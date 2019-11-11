@@ -238,6 +238,12 @@
     padding: 70px;
     height: 180px;
 }
+  .item h1 {
+      font-size: 30px;
+  }
+  .item p {
+      font-size: 12px;
+  }
      
 
 }
