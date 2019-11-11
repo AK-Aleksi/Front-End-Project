@@ -227,6 +227,14 @@
         max-width: 80%;
         height: 100%;
     }
+    .card-text-p {
+    margin: 0;
+    font-size: 11px;
+}
+    .card-md-img-right, .card-md-img-left {
+    padding: 70px;
+    height: 180px;
+}
      
 
 }
