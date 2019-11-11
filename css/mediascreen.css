@@ -187,7 +187,7 @@
        background: #1a56a3;
    }
 
-    .card-md { padding: 30px; }
+/*     .card-md { padding: 30px; } */
 
     .form-wrapper { padding: 30px; }
 
@@ -231,7 +231,8 @@
     margin: 0;
     font-size: 11px;
 }
-    .card-md-img-right, .card-md-img-left {
+    .card-md-img-right, 
+    .card-md-img-left {
     padding: 70px;
     height: 180px;
 }
